@@ -14,7 +14,7 @@ const Blogs = () => {
 
     return (
         <div>
-
+            <h2>Blogs: {blogs.length}</h2>
         </div>
     );
 };
